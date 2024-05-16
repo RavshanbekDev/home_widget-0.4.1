@@ -145,7 +145,6 @@ class HomeWidget {
           child: repaintBoundary,
         ),
         configuration: ViewConfiguration(
-          size: logicalSize,
           devicePixelRatio: 1.0,
         ),
       );
