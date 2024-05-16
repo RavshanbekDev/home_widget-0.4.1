@@ -148,6 +148,7 @@ class HomeWidget {
           devicePixelRatio: 1.0,
         ),
       );
+      ///update text
 
       /// setting the rootNode to the renderview of the widget
       pipelineOwner.rootNode = renderView;
